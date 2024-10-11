@@ -1,0 +1,227 @@
+[
+  {
+    "price": 50000,
+    "description": "Explore the majestic mountains and enjoy thrilling adventures.",
+    "category": "Mountains",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/mountains-new.jpg",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/manali-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/shimla-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/leh-min.jpeg"
+    ],
+    "places": [
+      { "name": "Manali", "latitude": 32.2396, "longitude": 77.1887 },
+      { "name": "Shimla", "latitude": 31.1048, "longitude": 77.1734 },
+      { "name": "Leh", "latitude": 34.1526, "longitude": 77.5771 },
+      { "name": "Darjeeling", "latitude": 27.041, "longitude": 88.2663 },
+      { "name": "Nainital", "latitude": 29.3803, "longitude": 79.4636 }
+    ]
+  },
+  {
+    "price": 40000,
+    "description": "Discover the most beautiful waterfalls in the country.",
+    "category": "Waterfalls",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/waterfall-new.jpg?t=2024-06-16T10%3A55%3A42.270Z",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/jog_falls-min.jpeg?t=2024-06-22T02%3A34%3A44.744Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/dudhsagar_falls-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/Athirappilly_Falls-min.jpeg?t=2024-06-22T02%3A35%3A48.345Z"
+    ],
+    "places": [
+      { "name": "Jog Falls", "latitude": 14.23, "longitude": 74.8079 },
+      { "name": "Dudhsagar Falls", "latitude": 15.3144, "longitude": 74.3143 },
+      {
+        "name": "Athirappilly Falls",
+        "latitude": 10.2852,
+        "longitude": 76.5698
+      },
+      { "name": "Nohkalikai Falls", "latitude": 25.2976, "longitude": 91.6869 },
+      {
+        "name": "Shivanasamudra Falls",
+        "latitude": 12.3015,
+        "longitude": 77.1774
+      }
+    ]
+  },
+  {
+    "price": 60000,
+    "description": "Visit the most iconic historical monuments.",
+    "category": "History",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/char_minar-min.jpeg",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/qutub_minar-min.jpeg?t=2024-06-22T02%3A37%3A58.892Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/char_minar-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/red_fort-min.jpeg?t=2024-06-22T02%3A40%3A52.775Z"
+    ],
+    "places": [
+      { "name": "Taj Mahal", "latitude": 27.1751, "longitude": 78.0421 },
+      { "name": "Qutub Minar", "latitude": 28.5244, "longitude": 77.1855 },
+      { "name": "Red Fort", "latitude": 28.6562, "longitude": 77.241 },
+      { "name": "Gateway of India", "latitude": 18.922, "longitude": 72.8347 },
+      { "name": "Hawa Mahal", "latitude": 26.9239, "longitude": 75.8267 }
+    ]
+  },
+  {
+    "price": 65000,
+    "description": "Visit the most serene and ancient temples.",
+    "category": "Temples",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/temples.jpg?t=2024-06-16T11%3A08%3A34.282Z",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/kedarnath_temple-min.jpeg?t=2024-06-22T02%3A42%3A08.942Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/sun_temple-min.jpeg?t=2024-06-22T02%3A43%3A32.367Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/temples.jpg?t=2024-06-16T11%3A08%3A34.282Z"
+    ],
+    "places": [
+      { "name": "Badrinath Temple", "latitude": 30.7433, "longitude": 79.4933 },
+      { "name": "Tirupati Temple", "latitude": 13.6788, "longitude": 79.3535 },
+      { "name": "Golden Temple", "latitude": 31.6199, "longitude": 74.8765 },
+      { "name": "Meenakshi Temple", "latitude": 9.919, "longitude": 78.1196 },
+      { "name": "Kedarnath Temple", "latitude": 30.7352, "longitude": 79.0669 }
+    ]
+  },
+
+  {
+    "price": 70000,
+    "description": "Experience the thrill of a wildlife safari.",
+    "category": "Safari",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/safari-new.jpg",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/safari-min.jpeg?t=2024-06-22T02%3A46%3A17.962Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/safari_2-min.jpeg?t=2024-06-22T02%3A46%3A47.578Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/safari-new.jpg"
+    ],
+    "places": [
+      {
+        "name": "Jim Corbett National Park",
+        "latitude": 29.53,
+        "longitude": 78.7747
+      },
+      {
+        "name": "Ranthambore National Park",
+        "latitude": 26.0173,
+        "longitude": 76.5026
+      },
+      {
+        "name": "Kaziranga National Park",
+        "latitude": 26.5775,
+        "longitude": 93.1711
+      },
+      {
+        "name": "Bandhavgarh National Park",
+        "latitude": 23.6823,
+        "longitude": 80.4388
+      },
+      {
+        "name": "Sundarbans National Park",
+        "latitude": 21.9497,
+        "longitude": 88.7264
+      }
+    ]
+  },
+  {
+    "price": 45000,
+    "description": "Relax and unwind on the most beautiful beaches.",
+    "category": "Beaches",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/beach.jpg?t=2024-06-16T10%3A58%3A02.590Z",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/mariana_beach-min.jpeg?t=2024-06-22T02%3A48%3A02.124Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/beach_2-min.jpeg?t=2024-06-22T02%3A48%3A21.169Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/beach.jpg?t=2024-06-16T10%3A58%3A02.590Z"
+    ],
+    "places": [
+      { "name": "Goa", "latitude": 15.2993, "longitude": 74.124 },
+      { "name": "Marina Beach", "latitude": 13.05, "longitude": 80.2824 },
+      { "name": "Kovalam Beach", "latitude": 8.4021, "longitude": 76.9787 },
+      { "name": "Varkala Beach", "latitude": 8.7379, "longitude": 76.7163 },
+      { "name": "Juhu Beach", "latitude": 19.0988, "longitude": 72.8267 }
+    ]
+  },
+  {
+    "price": 30000,
+    "description": "Enjoy serene and picturesque lakes.",
+    "category": "Lakes",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/dal_lake-min.jpeg",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/chilika_lake-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/dal_lake-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/vembanad_lake-min.jpeg?t=2024-06-22T02%3A50%3A41.233Z"
+    ],
+    "places": [
+      { "name": "Dal Lake", "latitude": 34.0837, "longitude": 74.7973 },
+      { "name": "Lake Pichola", "latitude": 24.5763, "longitude": 73.681 },
+      { "name": "Naini Lake", "latitude": 29.3863, "longitude": 79.459 },
+      { "name": "Chilika Lake", "latitude": 19.7433, "longitude": 85.4443 },
+      { "name": "Vembanad Lake", "latitude": 9.5667, "longitude": 76.35 }
+    ]
+  },
+  {
+    "price": 35000,
+    "description": "Explore the ancient and mysterious caves.",
+    "category": "Caves",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/ellora_caves-min.jpeg?t=2024-06-22T02%3A51%3A47.094Z",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/ajanta_caves-min.jpeg?t=2024-06-22T02%3A51%3A20.983Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/ellora_caves-min.jpeg?t=2024-06-22T02%3A51%3A47.094Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/cave_3-min.jpeg?t=2024-06-22T02%3A52%3A04.810Z"
+    ],
+    "places": [
+      { "name": "Ajanta Caves", "latitude": 20.5524, "longitude": 75.7033 },
+      { "name": "Ellora Caves", "latitude": 20.0268, "longitude": 75.1792 },
+      { "name": "Elephanta Caves", "latitude": 18.9633, "longitude": 72.931 },
+      { "name": "Borra Caves", "latitude": 18.3273, "longitude": 82.8674 },
+      { "name": "Badami Caves", "latitude": 15.915, "longitude": 75.676 }
+    ]
+  },
+  {
+    "price": 55000,
+    "description": "Discover the bustling urban attractions.",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/bangalore-min.jpeg?t=2024-06-22T02%3A53%3A09.629Z",
+    "category": "Urban",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/mumbai-min.jpeg",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/bangalore-min.jpeg?t=2024-06-22T02%3A53%3A09.629Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/hyderabad-min.jpeg?t=2024-06-22T02%3A53%3A35.023Z"
+    ],
+    "places": [
+      { "name": "Mumbai", "latitude": 19.076, "longitude": 72.8777 },
+      { "name": "Delhi", "latitude": 28.6139, "longitude": 77.209 },
+      { "name": "Bangalore", "latitude": 12.9716, "longitude": 77.5946 },
+      { "name": "Chennai", "latitude": 13.0827, "longitude": 80.2707 },
+      { "name": "Hyderabad", "latitude": 17.385, "longitude": 78.4867 }
+    ]
+  },
+  {
+    "price": 60000,
+    "description": "Explore the lush and diverse forests.",
+    "category": "Forests",
+    "imageCover": "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/forest_1-min.jpeg?t=2024-06-22T02%3A54%3A28.014Z",
+    "images": [
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/forest_1-min.jpeg?t=2024-06-22T02%3A54%3A28.014Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/forest_2-min.jpeg?t=2024-06-22T02%3A54%3A44.246Z",
+      "https://gkvsnmcywgascekueyme.supabase.co/storage/v1/object/public/tourimages/forest_3-min.jpeg?t=2024-06-22T02%3A54%3A53.873Z"
+    ],
+    "places": [
+      { "name": "Sundarbans", "latitude": 21.9497, "longitude": 88.7264 },
+      {
+        "name": "Periyar Wildlife Sanctuary",
+        "latitude": 9.4669,
+        "longitude": 77.255
+      },
+      {
+        "name": "Bandipur National Park",
+        "latitude": 11.6544,
+        "longitude": 76.6287
+      },
+      {
+        "name": "Nagarhole National Park",
+        "latitude": 12.1558,
+        "longitude": 76.1202
+      },
+      {
+        "name": "Silent Valley National Park",
+        "latitude": 11.0259,
+        "longitude": 76.4463
+      }
+    ]
+  }
+]
